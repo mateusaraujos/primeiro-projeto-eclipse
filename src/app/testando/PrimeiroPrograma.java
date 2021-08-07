@@ -4,7 +4,7 @@ public class PrimeiroPrograma {
 
 	public static void main(String args[]) {
 
-		Gato gato = new Gato("Pipo", "Branco", 1);
+		Gato gato = new Gato("Pipo", "Branco", 2);
 		
 		System.out.println(gato);
 
